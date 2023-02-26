@@ -62,7 +62,7 @@ Dubbo-go 生态覆盖多种网络协议：Triple、Dubbo、JSONRPC、gRPC、HTTP
   * [protoc-gen-go-triple](https://github.com/dubbogo/tools/blob/master/cmd/protoc-gen-go-triple/main.go) tripe 协议 pb 生成工具
   * [protoc-gen-dubbo3grpc](https://github.com/dubbogo/tools/blob/master/cmd/protoc-gen-dubbo3grpc/main.go) dubbo3 grpc 生成工具
 
-如果想知道 dubbogo 工具集更多更详细的使用细节，请访问 https://github.com/dubbogo/tools 并仔细阅读其 raedme。
+如果想知道 dubbogo 工具集更多更详细的使用细节，请访问 https://github.com/dubbogo/tools 并仔细阅读其 readme。
 
 ## Intellij 插件
 
